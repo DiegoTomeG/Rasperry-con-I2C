@@ -1,1 +1,1 @@
-# Rasperry-con-el-puerto-I2C
+# Rasperry-con-I2C
